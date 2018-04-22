@@ -7,3 +7,6 @@ and get the most popular page in a web example.
 
 The program is written on C and in order to have the program running, you need an additional .txt file with the information about 
 your web example. For more information, please read the resume.pdf.
+
+# Acknowledgements:
+Gianluca C., Gaia O., Roberta P. PageRank Implementation. Github repository: https://github.com/purtroppo/PageRank
