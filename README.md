@@ -1,4 +1,4 @@
-# PageRank
+# PageRank (C simple implementation )
 University project (Iterative Methods Application)
 
 The project was presented on an Algebra course (5th Semester in the Informatics Engineering career at Yachay Tech University). The project
