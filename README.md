@@ -9,4 +9,4 @@ The program is written on C and in order to have the program running, you need a
 your web example. For more information, please read the resume.pdf.
 
 # Acknowledgements:
-Gianluca C., Gaia O., Roberta P. PageRank Implementation. Github repository: https://github.com/purtroppo/PageRank
+Roberta Prendin, PageRank C implementation available at https://github.com/purtroppo/PageRank
