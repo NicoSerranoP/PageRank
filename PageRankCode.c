@@ -50,7 +50,7 @@ main (void)
   //Matrix nodes
   int nodefrom, nodeto;
   // open file again
-  fp = fopen ("nico.txt", "r");
+  fp = fopen ("links.txt", "r");
 
   // get the connections between nodes
   puts ("Nodes checking");
